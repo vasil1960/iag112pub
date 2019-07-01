@@ -24,10 +24,10 @@
 
 	<div class="container text-center my-5">
 		<h1>Център 112</h1> 
-		<h6 class="mt-5">Подадени сигнали чрез републикански телефон номер 112 към Изпълнителна агенция по горите</h6> 
+		<h6 class="mt-5">Подадени сигнали за извършени нарушения чрез републикански телефон номер 112 към Изпълнителна агенция по горите</h6> 
 	</div>
 		
-	<div class="container">
+	<div class="container pb-5">
 			
 		<table width="99%" class="table list_table table-responsive table-striped table-sm table-bordered" id="tblSignali">
 			<thead class="thead-light">
@@ -54,7 +54,7 @@
 				</tbody>
 
 		</table>
-	</div>
+	</div class="">
 		
 		<script type="text/javascript" language="javascript">
 

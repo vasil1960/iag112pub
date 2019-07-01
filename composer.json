@@ -1,0 +1,16 @@
+{
+    "name": "IAG/iag112pub",
+    "description": "Public messages (signali) in Iag",
+    "authors": [
+        {
+            "name": "vasil",
+            "email": "v.tsigov@iag.bg"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iag\\":"app/"
+        }
+    }
+}
